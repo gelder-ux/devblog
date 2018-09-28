@@ -1,8 +1,8 @@
 module.exports = {
-  title: 'Dev Blog', // Required
-  author: 'Ryan Fitzgerald', // Required
-  tagline: 'Full-stack Web Developer',
-  primaryColor: '#3498db', // Required
+  title: 'gelder-ux', // Required
+  author: 'Will Gelder', // Required
+  tagline: 'Senior UX Designer',
+  primaryColor: '#ef6e51', // Required
   showHeaderImage: true,
   showShareButtons: true,
   postsPerPage: 5, // Required
