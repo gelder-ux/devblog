@@ -7,9 +7,9 @@ module.exports = {
   showShareButtons: true,
   postsPerPage: 5, // Required
   social: {
-    website: 'https://ryanfitzgerald.ca',
-    github: 'https://github.com/ryanfitzgerald',
-    twitter: 'https://twitter.com/ryanafitzgerald',
-    linkedin: 'https://ca.linkedin.com/in/ryanafitzgerald'
+    website: 'https://willgelder.com',
+    github: 'https://github.com/gelder-ux',
+    twitter: 'https://twitter.com/gelder_ux',
+    linkedin: 'https://www.linkedin.com/in/will-gelder-02920070/'
   }
 };
