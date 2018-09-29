@@ -4,7 +4,7 @@ date: "2018-09-28"
 featuredImage: './create-a-thing.png'
 ---
 
-Over the years, I've come to the conclusion that any user interface can be distilled down into its functional essence in the form of **abstract flow diagram**
+Over the years, I've come to the conclusion that any user interface can be distilled down into its functional essence in the form of the **abstract flow diagram**
 
 <!-- end -->
 
