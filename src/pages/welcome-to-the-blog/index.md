@@ -1,21 +1,29 @@
 ---
-title: Welcome to the Blog!
-date: "2018-07-01"
-featuredImage: './featured.jpg'
+title: Abstract User Interfaces
+date: "2018-09-28"
+featuredImage: './create-a-thing.png'
 ---
 
-Welcome to the new blog, I hope you enjoy your stay! This is an example of how you can control what excerpt shows up.
+Over the years, I've come to the conclusion that any user interface can be distilled down into its functional essence in the form of **abstract flow diagram**
 
 <!-- end -->
 
-## Lorem ipsum dolor sit amet, consectetur adipiscing elit
+## Abstraction and UI
 
-Sed urna justo, scelerisque consectetur pharetra vitae, facilisis vel diam. Maecenas auctor enim a volutpat mattis. Morbi sit amet turpis a purus ornare pellentesque sit amet et ipsum. Suspendisse imperdiet mi at felis aliquet, nec consectetur arcu dignissim. Sed vitae diam maximus, maximus diam ac, scelerisque mi.
+The concept of generalizing functionality isn't new. Reusability of code decreases when it depends on being in a very specific context in order for it to function properly. In other words, to make code reusable, you must define its functionality as an encapsulated unit; able to stand on its own or be composed with other components while maintaining the intended functionality. 
 
-*   Morbi sit amet turpis a purus
-*   Etiam tempor ultricies mi
-    *   Maecenas auctor enim a volutpat mattis
-*   Sed urna justo, scelerisque consectetur pharetra vitae
+I often hear this idea in relation to front end code. Especially in component-based js frameworks like Angular or React. I've even heard a similar concept in my research into Design Systems. Designers will establish the basic visual building blocks of UI and compose those defined blocks together into pages.
+
+These "units" and "blocks" can all be thought of as the pieces that we use to assemble user interfaces. One defined in code, the other defined in visuals. 
+
+It's great that we have these pieces defined, but I am left with several questions:
+* What are the rules that govern the usage of one component over another? 
+* What type of artifact defines such things? 
+* Does this artifact need to be defined by the designer, developer, or someone else entirely?
+
+To answer these questions, I think we need the final piece of the user interface design puzzle: the **abstract flow diagram**. Think of it as a generalized unit of behavior that includes a set of steps to accomplish a goal. These abstracted flow diagrams can stand alone, be nested within each other, or be composed to define the expected behavior of the user interface of entire applications. In other words, units of behavior. 
+
+We now have our building blocks for our three disciplines of UI: code, visuals, and behavior.
 
 Nam nec augue vel nisl placerat faucibus. Donec congue **nulla quis nunc** sagittis placerat. Pellentesque non tincidunt velit, cursus porttitor tellus. Suspendisse pulvinar tortor at _augue aliquam sagittis_. Duis non pulvinar augue. Ut tristique dignissim ligula, eget tempus diam molestie non. Nulla ultrices eleifend rutrum. Mauris convallis sollicitudin dui, pulvinar suscipit velit. Maecenas viverra finibus metus vitae blandit.
 
