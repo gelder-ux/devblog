@@ -4,7 +4,7 @@ date: "2018-09-28"
 featuredImage: './create-a-thing.png'
 ---
 
-Over the years, I've come to the conclusion that any user interface can be distilled down into its functional essence in the form of the **abstract flow diagram**
+Over the years, I've come to the conclusion that any user interface can be distilled down into its functional essence in the form of the _abstract flow diagram_
 
 <!-- end -->
 
@@ -16,16 +16,28 @@ I often hear this idea in relation to front end code. Especially in component-ba
 
 These "units" and "blocks" can all be thought of as the pieces that we use to assemble user interfaces. One defined in code, the other defined in visuals. 
 
-It's great that we have these pieces defined, but I am left with several questions:
-* What are the rules that govern the usage of one component over another? 
-* What type of artifact defines such things? 
-* Does this artifact need to be defined by the designer, developer, or someone else entirely?
+It's great that we have these pieces defined, but I am left with one question:
+* What are the rules that govern the usage of these pieces?
 
-To answer these questions, I think we need the final piece of the user interface design puzzle: the **abstract flow diagram**. Think of it as a generalized unit of behavior that includes a set of steps to accomplish a goal. These abstracted flow diagrams can stand alone, be nested within each other, or be composed to define the expected behavior of the user interface of entire applications. In other words, units of behavior. 
 
-We now have our building blocks for our three disciplines of UI: code, visuals, and behavior.
+To answer this question, I think we need the final piece of the user interface design puzzle: the **abstract flow diagram**. 
 
-Nam nec augue vel nisl placerat faucibus. Donec congue **nulla quis nunc** sagittis placerat. Pellentesque non tincidunt velit, cursus porttitor tellus. Suspendisse pulvinar tortor at _augue aliquam sagittis_. Duis non pulvinar augue. Ut tristique dignissim ligula, eget tempus diam molestie non. Nulla ultrices eleifend rutrum. Mauris convallis sollicitudin dui, pulvinar suscipit velit. Maecenas viverra finibus metus vitae blandit.
+Think of it as a pattern of behavior that includes a set of steps to accomplish a goal, reusable in any application. The abstracted flow diagram can stand alone,  nested within other diagrams, or composed together to define the expected behavior of any user interface and application. In other words, a unit of behavior. 
+
+We now have the necessary building blocks for creating a user interface in code, visuals, and now behavior.
+
+## Core Behaviors
+
+The sheer number of digital services available to us today would have you believe that they all perform unique tasks. However, I would argue that a user only has a handful of core behaviors that they can act out using _any_ digital product. These tasks are often referred to as **CRUD** operations:
+* Create
+* Read
+* Update
+* Delete
+
+## Example
+Let's take the **Create** behavior. A user of a digital product can often create things. Oftentimes, they will create "posts" on social media, create a new email thread, create a new document, etcetera. This "create" behavior can manifest in an infinite number of ways depending on  branding, industry, and use-case, but the core behavior is almost _always_ the same. See the diagram below:
+
+![Create](./create-a-thing.png)
 
 ### Pellentesque consectetur facilisis venenatis
 
