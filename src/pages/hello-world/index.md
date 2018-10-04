@@ -1,11 +1,13 @@
 ---
-title: Hello World
-date: "2018-06-30"
+title: Your Organization is a Design System
+date: "2018-10-04"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris consectetur dolor metus, in semper purus tempus nec. Nunc porta maximus nisi eget tempus. Maecenas tellus ligula, porttitor ut ligula vitae, porta malesuada libero. 
+I love design systems. There are no lack of blog posts on the topic, and each one has more-or-less the same definition for them: A pattern library of user interface components, and a living style guide, and documentation on when to use certain components. These are the tangible outputs. However, there are much harder to define facets to what a design system is. 
 
 <!-- end -->
+
+## (Hint) It's People
 
 Fusce at pharetra diam. Sed eget erat nibh. Nulla condimentum eros a nisi placerat, nec ultrices arcu dictum. Vestibulum nec elementum mi, id tempor ligula. Etiam ut lectus ac quam facilisis sodales. Donec laoreet justo id diam aliquet aliquet. Vivamus arcu est, varius in erat non, pharetra pulvinar magna. Fusce quis elementum nulla.
 

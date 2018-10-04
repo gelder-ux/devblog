@@ -1,7 +1,7 @@
 module.exports = {
   title: 'gelder-ux', // Required
   author: 'Will Gelder', // Required
-  tagline: 'Senior UX Designer',
+  tagline: 'UX Designer',
   primaryColor: '#ef6e51', // Required
   showHeaderImage: true,
   showShareButtons: true,
