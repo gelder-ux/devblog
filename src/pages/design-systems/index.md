@@ -17,20 +17,15 @@ In order for a design system to thrive successfully, every employee from the des
 
 ![A diagram of how a design system services the apps that depend on it.](./design-system.jpg)
 
-The above diagram illustrates how someone could think about the system. The system acts as a service for its dependent users; other products. In other words, the design system is just another product and its customers are your company's product development teams. This means that the design system must have a dedicated team to foster its design, development, release and roadmap. It cannot be the left to select passionate designers or else competing priorities will snuff out that passion. 
+The above diagram illustrates how someone could think about the system. The system acts as a service for its dependent users; other products. In other words, the design system is just another product and its customers are your company's product development teams. This means that the design system must have a dedicated team to foster its design, development, release, and roadmap. It cannot be left to select passionate designers or else competing priorities will always snuff out that passion and any momentum built up. 
 
 At the core of it all are the company's guiding principles; abstract terms such as "concise, spacious, and friendly" for example. Each user interface component created thereafter is created to align with those principles; perhaps the card component has generous whitespace and short bits of pleasantly worded text. 
 
-Nullam tristique ante quis gravida aliquet. Donec elementum, leo eu interdum mattis, erat quam vestibulum nunc, nec convallis eros risus ut enim. Sed maximus odio tincidunt velit congue molestie. Nunc in pharetra eros, id pulvinar justo. Pellentesque quis accumsan leo. Praesent efficitur magna a posuere viverra. Morbi sit amet tincidunt mauris. Vestibulum sed maximus felis. Proin in tellus eu nisi dictum posuere eu id felis. Donec eget mi sit amet neque efficitur suscipit ut ut neque. Vivamus egestas, augue vitae vestibulum feugiat, lorem elit lobortis nulla, eget ornare arcu ipsum ac lacus. Proin a suscipit ligula, non facilisis nibh. Nunc et eros magna.
-
 >Aenean quis nisi eros. Praesent a libero et ante sagittis dictum eget id ipsum. Duis sit amet bibendum justo. Morbi faucibus vehicula bibendum. Praesent ornare hendrerit commodo. Praesent sit amet nisi mauris. Aenean maximus pharetra lacinia. Praesent efficitur erat id dolor laoreet rhoncus. Cras eu efficitur arcu. Nunc pretium, nunc sit amet rutrum molestie, arcu nisi tempus ligula, eu dapibus leo tortor in quam.
 
-Vivamus viverra id ipsum nec hendrerit. Fusce mollis enim et ultricies varius. Nam at dictum augue, id dictum augue. Fusce laoreet purus id iaculis cursus. Donec non velit est. Integer pellentesque viverra sapien, id rhoncus ipsum dictum ac. Aliquam vel maximus tortor, vitae interdum turpis. Etiam egestas elementum massa, id dictum magna suscipit vel. Curabitur mi tellus, pharetra eget nisi vitae, blandit vulputate nibh. Aenean tincidunt purus eu feugiat pulvinar. Maecenas quis laoreet lorem, a molestie urna. Cras iaculis justo elit, nec venenatis ante sollicitudin a. Cras eu pellentesque arcu, sit amet auctor felis.
 
 ```javascript
 $(document).ready(function() {
     console.log('Welcome!');
 })
 ```
-
-Curabitur non blandit dui. Maecenas in ipsum nec leo pellentesque sodales et nec quam. Ut ut facilisis metus, sit amet aliquam nibh. Quisque blandit dui quis augue dictum vehicula.
