@@ -37,8 +37,8 @@ If you have one or two products, chances are you can get away with the simple so
 
 If you have product-centric teams, you're gonna' have a tough time carving out a timeline to work on a design solution of any scale. There's just not enough head room for people to be working on several projects at once. If you have a design system team, then congrats! I have no idea how that feels.
 
-
-
+## Ending Thoughts
+Thanks for reading this rambling of a topic. Stay tuned for upcoming entries in this series!
 
 
 
