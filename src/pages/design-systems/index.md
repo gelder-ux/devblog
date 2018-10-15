@@ -6,6 +6,8 @@ featuredImage: './wireframe.png'
 
 Author's Note: This is the first post in a series dedicated to design systems. I am currently embarking on this journey within my organization. With this series, I hope to archive my thoughts here in order to not only crystalize my strategy, but to also help others on their path to design system nirvana. Hopefully, you glean from this series some ideas on how to navigate your organization and achieve a design system of your own.
 
+<!-- end -->
+
 Without further ado, I want to kick this post off with thoughts not about design systems per se, but about the context in which they exist: organizations.
 
 # Your Organization is a Design System
@@ -15,8 +17,6 @@ Without further ado, I want to kick this post off with thoughts not about design
 - If you create digital products, you are using a design system. Albeit it might be inefficient: copying and pasting code snippets, or more elegant: where you leverage a front end tooling pipeline.
 
 As a designer, I love the concept of design systems. There are no lack of blog posts on the matter, and each one has more-or-less the same definition for them: A pattern library of user interface components, a living style guide, and documentation on when to use certain components. These are the tangible outputs. However, there are intangible - yet _very_ real - aspects to how a design system is incorporated. It's up to the organization whether or not a design system thrives.
-
-<!-- end -->
 
 ## Value
 
